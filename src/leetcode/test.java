@@ -23,7 +23,7 @@ public class test {
 	public static void main(String[] args) {
 		String str = "RRLLLLRRLRRRLL";
 		int num = balancedStringSplit(str);
-		System.out.print(num);
+		System.out.print(2 ^ 1);
 
 	}
 
