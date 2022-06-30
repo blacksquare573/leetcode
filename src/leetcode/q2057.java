@@ -11,7 +11,6 @@ public class q2057 {
 			}
 		}
 		return min;
-
 	}
 
 	public static void main(String[] args) {

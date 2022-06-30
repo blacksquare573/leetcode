@@ -22,10 +22,8 @@ public class q1860 {
 	}
 
 	public static void main(String[] args) {
-		int m1 = 2;
-		int m2 = 2;
+		int m1 = 5;
+		int m2 = 5;
 		System.out.println(Arrays.toString(memLeak(m1, m2)));
-
 	}
-
 }

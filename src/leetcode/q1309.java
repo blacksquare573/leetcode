@@ -34,10 +34,7 @@ public class q1309 {
 				str.replace(i, i + 1, String.valueOf((char) ('0' + (str.charAt(i)))));
 			}
 		}
-
 		System.out.println(str);
 		System.out.println((char) ('`' + 10));
-
 	}
-
 }
